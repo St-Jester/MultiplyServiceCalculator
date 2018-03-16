@@ -1,0 +1,6 @@
+C:\Users\Kateryna\Documents\Programming\Programming\DotNet\WCF\WCFAutomatic\ManyCalculators\bin\Debug\ManyCalculators.dll.config
+C:\Users\Kateryna\Documents\Programming\Programming\DotNet\WCF\WCFAutomatic\ManyCalculators\bin\Debug\ManyCalculators.dll
+C:\Users\Kateryna\Documents\Programming\Programming\DotNet\WCF\WCFAutomatic\ManyCalculators\bin\Debug\ManyCalculators.pdb
+C:\Users\Kateryna\Documents\Programming\Programming\DotNet\WCF\WCFAutomatic\ManyCalculators\obj\Debug\ManyCalculators.csprojResolveAssemblyReference.cache
+C:\Users\Kateryna\Documents\Programming\Programming\DotNet\WCF\WCFAutomatic\ManyCalculators\obj\Debug\ManyCalculators.dll
+C:\Users\Kateryna\Documents\Programming\Programming\DotNet\WCF\WCFAutomatic\ManyCalculators\obj\Debug\ManyCalculators.pdb

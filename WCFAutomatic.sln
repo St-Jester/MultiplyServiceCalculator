@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Host", "Host\Host.csproj", "{D1F6E35A-7298-48EB-9F6E-8757CEE5D490}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "Client\Client.csproj", "{3DB5109E-464D-4616-88AE-0E91B640178E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManyCalculators", "ManyCalculators\ManyCalculators.csproj", "{BEFB3B42-4B9C-482C-819E-078B9FBFED41}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D1F6E35A-7298-48EB-9F6E-8757CEE5D490}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1F6E35A-7298-48EB-9F6E-8757CEE5D490}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1F6E35A-7298-48EB-9F6E-8757CEE5D490}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1F6E35A-7298-48EB-9F6E-8757CEE5D490}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DB5109E-464D-4616-88AE-0E91B640178E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DB5109E-464D-4616-88AE-0E91B640178E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DB5109E-464D-4616-88AE-0E91B640178E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DB5109E-464D-4616-88AE-0E91B640178E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BEFB3B42-4B9C-482C-819E-078B9FBFED41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEFB3B42-4B9C-482C-819E-078B9FBFED41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEFB3B42-4B9C-482C-819E-078B9FBFED41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEFB3B42-4B9C-482C-819E-078B9FBFED41}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
